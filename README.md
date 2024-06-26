@@ -16,8 +16,8 @@ If it's going to rain in the next 12 hours, it sends you a message at a time you
 - <a href="https://openweathermap.org/api" style="text-decoration:none; color:salmon;">OpenWeatherMap api</a>
 - <a href="https://www.twilio.com/en-us" style="text-decoration:none; color:salmon;">Twilio Api</a>
 
-![Image]("https://github.com/f3riend/rain-sense/blob/main/assets/screenshot.jpg")
-![Image]("https://github.com/f3riend/rain-sense/blob/main/assets/screenshot2.jpg")
+![Image](https://github.com/f3riend/rain-sense/blob/main/assets/screenshot.jpg)
+![Image](https://github.com/f3riend/rain-sense/blob/main/assets/screenshot2.jpg)
 
 
 **Purpose**
